@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My ignore
+*.ipynb_checkpoints
+*.ipynb
+*.DS_Store
+*.vscode
+ipfy_asset_management_database/data/asset_initial_values.csv
+ipfy_asset_management_database/data/Boursorama_backup_LDD_unprocessed.csv
+ipfy_asset_management_database/data/Boursorama_backup_CC_unprocessed.csv
+ipfy_asset_management_database/data/BB_LDD_processed.csv
+ipfy_asset_management_database/data/BB_CC_processed.csv
+.DS_Store
