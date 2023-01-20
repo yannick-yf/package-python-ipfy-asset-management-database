@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ipfy-asset-management-database"
-version = "0.0.1"
+version = "0.0.2"
 description = "Python package to manage the ipfy asset management database"
 authors = ["Yannick Flores <yannick.flores1992@gmail.com>"]
 readme = "README.md"
